@@ -1,0 +1,9 @@
+C:\Users\admin\source\repos\CalculateSquare\CalculateSquare\bin\Debug\netstandard2.0\CalculateSquare.deps.json
+C:\Users\admin\source\repos\CalculateSquare\CalculateSquare\bin\Debug\netstandard2.0\CalculateSquare.dll
+C:\Users\admin\source\repos\CalculateSquare\CalculateSquare\bin\Debug\netstandard2.0\CalculateSquare.pdb
+C:\Users\admin\source\repos\CalculateSquare\CalculateSquare\obj\Debug\netstandard2.0\CalculateSquare.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\CalculateSquare\CalculateSquare\obj\Debug\netstandard2.0\CalculateSquare.AssemblyInfoInputs.cache
+C:\Users\admin\source\repos\CalculateSquare\CalculateSquare\obj\Debug\netstandard2.0\CalculateSquare.AssemblyInfo.cs
+C:\Users\admin\source\repos\CalculateSquare\CalculateSquare\obj\Debug\netstandard2.0\CalculateSquare.dll
+C:\Users\admin\source\repos\CalculateSquare\CalculateSquare\obj\Debug\netstandard2.0\CalculateSquare.pdb
+C:\Users\admin\source\repos\CalculateSquare\CalculateSquare\obj\Debug\netstandard2.0\CalculateSquare.csprojAssemblyReference.cache
